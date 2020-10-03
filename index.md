@@ -1,6 +1,6 @@
 ## 欢迎来到王辰轩的个人网站
 
-You can use the [editor on GitHub](https://github.com/wangchenxuan-shuai/cx.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+the [editor on GitHub](https://github.com/wangchenxuan-shuai/cx.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
